@@ -1,0 +1,14 @@
+header{
+    position: sticky;
+}
+body{
+    background-color: black;
+    color: lightblue;
+}
+form{
+    background-color: black;
+    color: aqua;
+}
+.section{
+    background-color: black;
+    color: lightblue;}
